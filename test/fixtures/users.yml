@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  moneyspent: 1
+  email: MyString
+
+two:
+  moneyspent: 1
+  email: MyString
